@@ -22,7 +22,7 @@ This work uses data from the following sources:
 
 * **[LESA2021:](https://github.com/LCS2-IIITD/LESA-EACL-2021/tree/main/data)** Shreya Gupta, Parantak Singh, Megha Sundriyal, Md. Shad Akhtar, and Tanmoy Chakraborty. 2021. LESA: Linguistic encapsulation and semantic amalgamation based generalised claim detection from online content. In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, pages 3178–3188, Online. Association for Computational Linguistics.
 
-* **Monant:** Ivan Srba, Robert Moro, Jakub Simko, Jakub Sevcech, Daniela Chuda, Pavol Navrat, and Maria Bielikova. 2019. Monant: Universal and extensible platform for monitoring, detection and mitigation of antisocial behavior. In Proceedings of Workshop on Reducing Online Misinformation Exposure (ROME 2019), pages 1–7.
+* **[Monant:](https://zenodo.org/record/5996864)** Ivan Srba, Robert Moro, Jakub Simko, Jakub Sevcech, Daniela Chuda, Pavol Navrat, and Maria Bielikova. 2019. Monant: Universal and extensible platform for monitoring, detection and mitigation of antisocial behavior. In Proceedings of Workshop on Reducing Online Misinformation Exposure (ROME 2019), pages 1–7.
 
     Ivan Srba, Branislav Pecher, Tomlein Matus, Robert Moro, Elena Stefancova, Jakub Simko, and Maria Bielikova. 2022. Monant medical misinformation dataset: Mapping articles to fact-checked claims. In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22), New York, NY, USA. Association for Computing Machinery;
 
