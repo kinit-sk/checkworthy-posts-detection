@@ -24,8 +24,6 @@ This work uses data from the following sources:
 
 * **[MultiClaim:](https://arxiv.org/abs/2305.07991)** Matúš Pikuliak, Ivan Srba, Robert Moro, Timo Hromadka, Timotej Smolen, Martin Melisek, Ivan Vykopal, Jakub Simko, Juraj Podrouzek, Maria Bielikova. 2023. MultiClaim: Multilingual Previously Fact-Checked Claim Retrieval.
 
-    Ivan Srba, Branislav Pecher, Tomlein Matus, Robert Moro, Elena Stefancova, Jakub Simko, and Maria Bielikova. 2022. Monant medical misinformation dataset: Mapping articles to fact-checked claims. In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22), New York, NY, USA. Association for Computing Machinery;
-
 The data was used to set up the following 5 collections used in 5 different experiments in the paper:
 
 ![](images/collections.png)
