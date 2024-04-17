@@ -10,7 +10,7 @@ This work presents an extensive study of transformer-based NLP models, dedicated
 
 The repository is organized as follows:
 * files_split.ipynb - notebook for splitting the data into train, dev and test sets;
-* Training_testing.ipynb - notebook for training and testing based on the Flair package;
+* training_testing.ipynb - notebook for training and testing based on the Flair package;
 * files_translated.ipynb - notebooks that show how the translated parts of the collections were assembled together and preprocessed;
 
 ## Data
